@@ -89,7 +89,7 @@ switch($metodo){
             }    
         }else {
             header("http/1.1 400 bad request");
-            echo "Faltan datos";
+            echo "Faltan datos wey";
         }
         break;
     default:
